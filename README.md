@@ -22,7 +22,7 @@ The project currently only implements the back-end console.
 * Learn how to serialize and deserialize a class
 * Write and reade a JSON file
 * Manage datetime
-* Learn how to use *\args and *\*\*kwargs
+* Learn how to use *args and *\*kwargs
 * Handle named arguments in a function
 
 ## Installation and execution :mechanical_arm:
